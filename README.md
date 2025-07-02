@@ -24,7 +24,6 @@ This project hosts the **ebook main website** as a static site using Amazon S3.
 
 ## 💻 **Commands Practiced**
 
-```bash
 # Make bucket
 aws s3 mb s3://ebook-007 --region ap-south-1
 
