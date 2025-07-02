@@ -34,6 +34,7 @@ aws s3 cp ./website/ s3://ebook-007/ --recursive
 # List files in bucket
 aws s3 ls s3://ebook-007/
 
+---
 
 ## 💻 **Project Screenshots**
 
