@@ -35,8 +35,10 @@ aws s3 ls s3://ebook-007/
 ## 💻 **Project Screenshots**
 
 ![Screenshot 2025-07-02 052003](https://github.com/user-attachments/assets/6bc44ea7-cbbe-4c91-9fbb-c5c11e80abe8)
+---
 
 ![Screenshot 2025-07-02 052016](https://github.com/user-attachments/assets/30d2f432-4439-4421-9842-2ccadaac079a)
+---
 
 ![Screenshot 2025-07-02 052327](https://github.com/user-attachments/assets/8e876a04-b3ba-48b3-ae85-a0dcea784013)
 
