@@ -24,13 +24,10 @@ This project hosts the **ebook main website** as a static site using Amazon S3.
 
 ## 💻 **Commands Practiced**
 
-# Make bucket
 aws s3 mb s3://ebook-007 --region ap-south-1
 
-# Upload website files
 aws s3 cp ./website/ s3://ebook-007/ --recursive
 
-# List files in bucket
 aws s3 ls s3://ebook-007/
 
 ---
